@@ -82,12 +82,6 @@ Export your artwork to .png, .jpg, or .pdf
 
 ---
 
-Screenshots
-
-(Add screenshots of your app here later if you want)
-
-
----
 
 License
 
